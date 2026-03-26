@@ -36,13 +36,12 @@ T ≥ Rf Cf
 The integrator is most commonly used in analog computers and ADC and signal-wave shaping circuits.
 CIRCUIT DIAGRAM
 ## CIRCUIT DIAGRAM
-<img width="698" height="423" alt="image" src="https://github.com/user-attachments/assets/f007b349-f96e-42d3-acd3-a37119fc16fc" />
-
+![WhatsApp Image 2025-12-04 at 09 33 56_df340cde](https://github.com/user-attachments/assets/f45b70f9-a492-4b29-aeba-cd40ffb94956)
 
 ## MODEL GRAPH
-<img width="556" height="380" alt="image" src="https://github.com/user-attachments/assets/caa7461c-69f7-4636-8e31-eea6db6efbb5" />
+![WhatsApp Image 2025-12-04 at 09 34 19_86471bc3](https://github.com/user-attachments/assets/5886f75f-715c-44b1-a13c-aaff0bc2a1e5)
+![WhatsApp Image 2025-12-04 at 09 34 29_5ea0f596](https://github.com/user-attachments/assets/2b341f0b-b9e1-4bab-b57e-dc43bfdc8b6d)
 
-<img width="847" height="553" alt="image" src="https://github.com/user-attachments/assets/d8d3e586-8e58-47ba-baae-2794c7955d51" />
 
 ---
 
@@ -61,15 +60,14 @@ We get , R1 =	and hence Rf =
 
 
 ## TABULATION
-| Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
-|----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
+
+![WhatsApp Image 2025-12-04 at 09 34 04_c0a4dc6a](https://github.com/user-attachments/assets/b5164617-c34f-41cb-94ba-89a2c2b0d49e)
 		
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-12-04 at 10 34 19_fdd4e04d](https://github.com/user-attachments/assets/8acf4658-c5ac-4414-8cc6-c3068a15d054)
 
 
 ---
@@ -109,25 +107,22 @@ Here the negative sign indicates that the output voltage is 180 0 out of phase w
 The differentiator is most commonly used in wave shaping circuits to detect high frequency components in an input signal and also as a rate–of–change detector in FM modulators.
 
 ## CIRCUIT DIAGRAM
-<img width="760" height="414" alt="image" src="https://github.com/user-attachments/assets/6ee3caf5-d5de-4c38-8ebe-7ff5add6c9cd" />
 
-
+![WhatsApp Image 2025-12-04 at 10 37 57_04baef16](https://github.com/user-attachments/assets/a370cbdd-0a2a-4cb5-b591-6e9f4b0cfde7)
 
 ## MODEL GRAPH
 
 (i)	 SINE WAVE INPUT
 
-<img width="687" height="479" alt="image" src="https://github.com/user-attachments/assets/c89226c0-c2bb-4544-b355-27fc0d923f1a" />
----
+![WhatsApp Image 2025-12-04 at 10 37 57_f53fe353](https://github.com/user-attachments/assets/b6607794-12ff-4e05-a47f-f049092e6736)
+
 
 AND
 
 (ii) SQUARE WAVE INPUT
 
-<img width="758" height="447" alt="image" src="https://github.com/user-attachments/assets/cda33b00-c40c-490f-a9bd-e06107119c25" />
+![WhatsApp Image 2025-12-04 at 10 37 57_72e73caa](https://github.com/user-attachments/assets/cef6b090-a1da-416e-b9f5-436d2846641e)
 
-
----
 
 ## DESIGN
 
@@ -148,14 +143,10 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 3.	By adjusting the amplitude and frequency knobs of the function generator, appropriate input voltage is applied to the inverting input terminal of the Op- Amp.
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 
- ## TABULATION
-| Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
-|----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
-		
+
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-12-04 at 10 37 58_b80c5bf5](https://github.com/user-attachments/assets/3d719be5-7e2a-45af-bcec-57bfd91777bb)
 
 ---
 
